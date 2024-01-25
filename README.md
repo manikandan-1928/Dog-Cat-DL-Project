@@ -49,7 +49,7 @@ open up you local host and port
 
 
 ```bash
-Author: Bappy Ahmed
+Author: Manikandan
 Data Scientist
 Email: srimanikrish@gmail.com
 
